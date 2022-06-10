@@ -16,7 +16,7 @@
 
     <properties>
         <!-- Common libs -->
-        <dubbo_version>2.5.7</dubbo_version>
+        <dubbo_version>2.6.12</dubbo_version>
         <spring_version>4.3.10.RELEASE</spring_version>
         <javassist_version>3.20.0-GA</javassist_version>
         <netty_version>3.2.5.Final</netty_version>
